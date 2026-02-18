@@ -12,6 +12,7 @@
 * MySQL database integration
 * Web UI pages
 * Documentation update
+* Mobile development (Android Studio) 
 
 ## Project Completed!
 

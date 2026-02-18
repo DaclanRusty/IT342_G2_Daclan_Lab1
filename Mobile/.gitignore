@@ -1,0 +1,42 @@
+<<<<<<< HEAD
+# Backend
+userauth/target/
+userauth/.mvn/
+userauth/mvnw
+userauth/mvnw.cmd
+
+# Frontend
+userauth-frontend/node_modules/
+userauth-frontend/build/
+userauth-frontend/.env
+node_modules/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies
+package-lock.json
+=======
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+>>>>>>> aab53d1 (Mobile application finalized)

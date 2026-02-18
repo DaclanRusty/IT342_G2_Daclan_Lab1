@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mobile</string>
+    <string name="full_name_format">%1$s %2$s</string>
+    <string name="session_expired">Session expired. Please login again.</string>
+    <string name="failed_to_load">Failed to load profile</string>
+    <string name="network_error">Network error occurred</string>
+</resources>
